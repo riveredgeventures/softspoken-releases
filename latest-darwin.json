@@ -1,11 +1,11 @@
 {
-  "version": "0.9.6",
-  "notes": "v0.9.6",
-  "pub_date": "2026-09-14T06:31:08Z",
+  "version": "0.9.7",
+  "notes": "Fantail",
+  "pub_date": "2026-09-18T12:30:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTlRDYUJKK0RFUEI0TFpqSVJoY0Z5SDhXWmV2MlI3N3hOeGNJQ25xZlFFcHVaR25acnd2S3lWWlRGaVNoZnlmempBSGVPcDlza3d5eitvaDlab24wZlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzY3NDM4CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6CkZHWVdKdUw0UENlajJxTkVobUtuN3pBMzdGRkozT3lxRjNkQUdEQUVJdHRmOXhaSStnVXJ0YkdlamZVbjlIamd6NTFYNkZxaHZFcktsb0YwWFV5eUJRPT0K",
-      "url": "https://github.com/riveredgeventures/softspoken-releases/releases/download/v0.9.6/Softspoken_0.9.6_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTllMNmc5Q2ZENXJva0JiOFZISmtEYTJrVXRDaWNOSjR4MC82M00weHQ4R3Fob3J4TUpTaDMrSm0xQjBIOWx4OXdzU0V6ZDF4bytWU0d2cCtZZE5pdmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzM0NTg4CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6CmxHRjdTbUZ5cklOOUdBei9yNncxVXFwUm1BYm5yMnQ2QzQwczNCNm5Vak11S1Z2VHN4cmVOeWVNMzFOaWQ5MkRvaWZoTWNzVVlwL2tHbHlKT0FVcURRPT0K",
+      "url": "https://github.com/riveredgeventures/softspoken-releases/releases/download/v0.9.7/Softspoken_0.9.7_aarch64.app.tar.gz"
     }
   }
 }
