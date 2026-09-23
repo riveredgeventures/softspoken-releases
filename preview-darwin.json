@@ -1,0 +1,11 @@
+{
+  "version": "0.9.8",
+  "notes": "v0.9.8",
+  "pub_date": "2026-09-23T02:38:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTlozaHFtNCtMMDIvaVBNNWNmN0Y5T2xhbEdNeXlVNWZtaHVPRlJxSjhBR0VZNFhVdzl1MWozeU5ubWJXbGpJNGtXbTI1U3VDYVpsL3FURmNyZ1FkY0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTMxMDI5CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6CjFxUkRibVpzdW5QSU5ySmhISXZ0OC9USjB4Z0VwcWpvM3JTV0xZQ2lYY0U0S3RVVzFvQXFTa3E1TktFOHJMQjRlamkvR0Nyb2dac1FVaE9ZRE5yVkNRPT0K",
+      "url": "https://github.com/riveredgeventures/softspoken-releases/releases/download/v0.9.8/Softspoken_0.9.8_aarch64.app.tar.gz"
+    }
+  }
+}
