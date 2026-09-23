@@ -1,0 +1,11 @@
+{
+  "version": "0.9.8",
+  "notes": "chore(release): v0.9.8",
+  "pub_date": "2026-09-23T02:53:13Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTldCbmJHQUxHLzFneUduc2UzUEVlWmtOQ2UzOEk3MU42Vzd0dnZXV1lDRk9CRDdIVHYzR0J2Nmt4UHg0QjJSREtPVis1b2Q5ekh5S2RmcHYwVkY0dUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTMxOTM5CWZpbGU6U29mdHNwb2tlbl8wLjkuOF94NjQtc2V0dXAuZXhlCjVMc2s3ZUZNb1RzdmYwRUtybGoyYXhqMi83bFhqQ1hsV2ExQUZkQUIwalI1VFg2WWpaZDEwVmxqdmVONTdld2ZScFlaYWRBdFZHanVTR3BpSnRDUUN3PT0K",
+      "url": "https://github.com/riveredgeventures/softspoken-releases/releases/download/v0.9.8/Softspoken_0.9.8_x64-setup.exe"
+    }
+  }
+}
