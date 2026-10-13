@@ -1,7 +1,9 @@
 # Softspoken releases
 
-Installers and update manifests for [Softspoken](https://softspoken.io), a local-first
-meeting notetaker and dictation app for macOS and Windows.
+Installers and update manifests for [Softspoken](https://softspoken.io), a private meeting
+notetaker and dictation app for macOS and Windows that transcribes on your own computer.
+
+Softspoken is in closed beta. The waitlist is at [softspoken.io](https://softspoken.io).
 
 The application source lives in a private repository. This one holds only what has to be
 publicly reachable: the things you download.
@@ -13,6 +15,8 @@ publicly reachable: the things you download.
 - **`latest-darwin.json`** and **`latest-windows.json`** are the update manifests. The app
   fetches its own platform's file, compares versions, and does nothing if it is already
   current. They are served from this repository at `https://updates.softspoken.io/`.
+- **`preview-darwin.json`** and **`preview-windows.json`** serve people who have switched on
+  Early bird updates in the app. They carry builds ahead of a release, verified in the same way.
 
 ## Why the installers are public
 
@@ -31,6 +35,12 @@ signature does not verify is refused before anything is installed.
 TLS protects the transport. The signature protects the contents. That separation is the point:
 on a corporate network that inspects HTTPS traffic through its own certificate authority, the
 download still works and a substituted build is still refused.
+
+## Who signed the installers
+
+Windows installers, the app and every first-party executable inside it are Authenticode-signed
+by River Edge Ventures Pty Ltd, the company behind Softspoken. macOS builds are signed with the
+same company's Apple Developer ID and notarised by Apple.
 
 ## Publishing, for maintainers
 
