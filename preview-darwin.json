@@ -1,11 +1,11 @@
 {
-  "version": "0.10.0",
-  "notes": "v0.10.0",
-  "pub_date": "2026-10-09T05:05:09Z",
+  "version": "0.11.0-rc.3",
+  "notes": "Softspoken 0.11.0-rc.3 (Early bird)",
+  "pub_date": "2026-10-23T05:46:41Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTldvU1ZPQTlmQkZpZnZpWmxpSDZENUpUbTJ1a0loWE00cndQamdCeTkyYmVzR1VjZ2U3SnpGcjhHckgvWmx4QXAxczFOaUJNS0xTL1JOZ1hRWHhRQlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTE0ODcyCWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6ClA3ak0zcmdvcjg1ZkM5Sko0elJvTmFGQjlvckcrN1hRMzlmSGtNZ2lCSWlDU3ZmMU9lS1B6YUNXNzNkTWdVckFoSlh4cGMxVkhKaEp0TytESGQ2L0R3PT0K",
-      "url": "https://github.com/riveredgeventures/softspoken-releases/releases/download/v0.10.0/Softspoken_0.10.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTlJ1L1czZ0wwQzJBa011YkZtUTQzRjRzL0crcTJ0aytlSHUyY0l0Vi84RFhBMGxQZ0pYUXhSUnRSU0JwOWFOR0M2eENVZ2wzbWZ6L0I2bU8rSXY3VWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTg1NDgxCWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6CXZlcnNpb246MC4xMS4wLXJjLjMKTkg0NWRpVHhYK1pTdUszRW0rNEpNVGNkdFJ3WE1vMzFGRGI1c2t5NzlrQkxJZkw2cXFzamhEZUJjQ3lWdnZTb1hVWVZlYnUycWowTlRpRElCOUUwQnc9PQo=",
+      "url": "https://github.com/riveredgeventures/softspoken-releases/releases/download/v0.11.0-rc.3/Softspoken_0.11.0-rc.3_aarch64.app.tar.gz"
     }
   }
 }
