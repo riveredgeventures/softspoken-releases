@@ -1,11 +1,11 @@
 {
-  "version": "0.12.0-rc.2",
-  "notes": "Softspoken 0.12.0-rc.2: in-person meetings you can trust (Early bird updates only)",
-  "pub_date": "2026-10-27T07:47:05Z",
+  "version": "1.0.0-rc.2",
+  "notes": "Softspoken 1.0.0-rc.2: meeting prep and Todoist (Early bird updates only)",
+  "pub_date": "2026-11-01T06:06:38Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTmVTQ20rdUJzWnlyTGFtd0xRVUVTd2tPWGZMUmFJK0l0bWU0blY2cXo0blg2cWlrdHVMU0MwbkVjWEJPdlFFMFBlYlc2U0lLZ25WbGV1V0dBUVNJZGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDAyNjIzCWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6CXZlcnNpb246MC4xMi4wLXJjLjIKNUUyWU5ibDhaSjZBR1FUVXBFWnNRQ0x3TzhrOEdCT1FQUGdNMXQ2aC85dHJ2UklBdVhZR1JQY3hjZ1ZNM2FBdkk4d3RBajgzbXQzT0lQZm1lalBKQnc9PQo=",
-      "url": "https://github.com/riveredgeventures/softspoken-releases/releases/download/v0.12.0-rc.2/Softspoken_0.12.0-rc.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTlUvOXh5S2NkVW9wRkNrN3pyOVNPVU42WU1zcTBRV2FhMWhWN2lKZFRjdFZ3Slc1b0ZPVjFZRU4wYktiRTJaenNGdGxTOEJydlh6a2RiTjgvb01HL3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQzMzc4CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6CXZlcnNpb246MS4wLjAtcmMuMgp0SmVJYzhZVUlOUmVrYk9WWkVid3kzN290Zmd4aTJ6bXV0WU1RbVpXVGZVNm85SDVybnBlcmFSOVlaOWRZNCs2aExmK0NYMFVXT3ZDL3dIMUJqbmFDdz09Cg==",
+      "url": "https://github.com/riveredgeventures/softspoken-releases/releases/download/v1.0.0-rc.2/Softspoken_1.0.0-rc.2_aarch64.app.tar.gz"
     }
   }
 }
