@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "Softspoken 1.0.0: the soft-open build",
-  "pub_date": "2026-11-04T14:47:22Z",
+  "version": "1.0.1",
+  "notes": "Softspoken 1.0.1: the sign-in words follow the gateway's sign-up state",
+  "pub_date": "2026-11-06T00:52:55Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTmZDYW02WjRlcHFNQ2JBN1IzclZvMTNRVnE5V2sydXFQc0pKbjFHakRvYllhVUtydkNzZG5xUGIyYTZtNDFtNEc1QnEvQ1FhMFNtYW05QjJqbzk0WHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzk5NDE1CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6CXZlcnNpb246MS4wLjAKNS9hRTlIVkNEdEpZL0lSUFczaDJSLzB3dnZhVGF3RHJpNVRuMlFhcEZPcFVqTXNTVlRvMUY0TndMeXlaaXJoMzVzNm9zZHlJZ3JDcHptZENVRFh6REE9PQo=",
-      "url": "https://github.com/riveredgeventures/softspoken-releases/releases/download/v1.0.0/Softspoken_1.0.0_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTmJkYzhIOWh1czE2Q1pWL21GbEtUUmpDM0p2UWVUek56MEtGc2R0U3BqNURiVWJmRmFQQjhqS0s5NDh5dU5CYTV5UStRcFpmRENpNjVZSTd2c2ZJcndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTI0NjA0CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6CXZlcnNpb246MS4wLjEKZjUwRVlsUDBMYisyL2RwL0Z2bmtLdTRDTjRwYmZGaTB6L01wOSs2RFFxUGs1S2krRnVza0tubUplcDFVSFVTY1Iza3ZQV1ZPUElCc0pNeWFtNC9LQkE9PQo=",
+      "url": "https://github.com/riveredgeventures/softspoken-releases/releases/download/v1.0.1/Softspoken_1.0.1_aarch64.app.tar.gz"
     }
   }
 }
