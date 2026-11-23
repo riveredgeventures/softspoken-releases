@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "Softspoken 1.0.2: the speech model downloads again, and a guided setup",
-  "pub_date": "2026-11-08T05:10:38Z",
+  "version": "1.0.3-rc.3",
+  "notes": "1.0.3-rc.3: the United States picker fix and Pro buttons for beta accounts, for Early bird updates",
+  "pub_date": "2026-11-23T04:08:17Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTlV3K2JrdGdWTTJ5UW8vcnFleFZNemdpQ0RXMkxMR1R0dFdqQXM4QTg1OEZRaVFodmlDN1lZb1RRK1RvUVNIdCtQcXFQeExROThxQ09mR1owdHNub3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTEzNDU5CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6CXZlcnNpb246MS4wLjIKTE82T0xDdlptSW5wWkNqOEUrTmE4ODM2aWw3SHQ4cWZ5ZlJ5enFkSzM0OEg0Sk8rOVNpT24wYXB2RTAvSUcrVGpFYmJ0M2FKaDdUK2FtTGZrMkZrQ3c9PQo=",
-      "url": "https://github.com/riveredgeventures/softspoken-releases/releases/download/v1.0.2/Softspoken_1.0.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTmN5RFVVcDBUUktRTFlrN2JvdXprQlEvY1pkRlBlZXZCQUczUzVGRWhFVVluSk5ZMXVUbEJyb29PbEZjcDJHR2VDVHRheUx6b3pJSFRxQVR4cCt2N2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzQ0NTA4CWZpbGU6U29mdHNwb2tlbi5hcHAudGFyLmd6CXZlcnNpb246MS4wLjMtcmMuMwo3OExyaUlTcDFQWEZSbDc2Q0ZXSmxjVy9uME9vVWN4aWxxQ0VSYmw3RGtFem1aeWxzQ2lBWWpZYzQ0NTNQN0pBdzNQQ3U0S2NQbzFqNERwVXNxQk9Bdz09Cg==",
+      "url": "https://github.com/riveredgeventures/softspoken-releases/releases/download/v1.0.3-rc.3/Softspoken_1.0.3-rc.3_aarch64.app.tar.gz"
     }
   }
 }
