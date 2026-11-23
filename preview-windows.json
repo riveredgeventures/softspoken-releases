@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3-rc.3",
-  "notes": "1.0.3-rc.3: the United States picker fix and Pro buttons for beta accounts, for Early bird updates",
-  "pub_date": "2026-11-23T04:49:27Z",
+  "version": "1.0.3",
+  "notes": "Softspoken 1.0.3: the AI region choice asks before it saves, and a beta account can buy Pro",
+  "pub_date": "2026-11-23T06:58:18Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTmJWT0twaW1vQ1ZnU0g0aFkremtyb0VUN281aVFGcDJkUkNPU1FsaGN6MjdxeTc2MUQrblozdVBJZEFhZGVUbjNsZzI3aVZJazhKOUxTQ1Q2U3MxbWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDA5MjU3CWZpbGU6U29mdHNwb2tlbl8xLjAuMy1yYy4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMy1yYy4zCkxZWUVORG1uN0w1eTdJNW1iaGlZTm0zN1JkSDNkenpEY2pWczZ2QUlVbnJrWEpISlBHUmZzcFNybkhTN3I5YzN6YmpHRmtyeEFhWCtIRkREQlFncUN3PT0K",
-      "url": "https://github.com/riveredgeventures/softspoken-releases/releases/download/v1.0.3-rc.3/Softspoken_1.0.3-rc.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYTA4eklNa3VFTlZnR0lwWGdkY2dHUE9JNjZIMURaRWpnQ2pnZnE0WU5VakZOU2x3Z0J1RHk3UWxXWHJna0xreXVVSkZwbThiM3hFU2tBdjI1R3QrNnZKeFR4Y2pBa3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDE2OTY3CWZpbGU6U29mdHNwb2tlbl8xLjAuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjMKZzgzbWhPc3VxQWZESU52ZzI3VHNFN2JxZE5sVUJ1TDVFMlBSRDg2WWhYVWdMRFJYNVNmWlpSeDFCUHFUTGtxZ2VEQ3J4anJJeUxQVUxkWXh1UUxpQXc9PQo=",
+      "url": "https://github.com/riveredgeventures/softspoken-releases/releases/download/v1.0.3/Softspoken_1.0.3_x64-setup.exe"
     }
   }
 }
